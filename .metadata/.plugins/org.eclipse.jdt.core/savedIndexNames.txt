@@ -1,0 +1,23 @@
+INDEX VERSION 1.134+D:\Coding\workspaces\227 hibernate\.metadata\.plugins\org.eclipse.jdt.core
+2726282807.index
+1645586590.index
+301716246.index
+3413270776.index
+1970569977.index
+901448054.index
+237682126.index
+3785386345.index
+555472861.index
+2624199669.index
+2908726827.index
+2338603124.index
+1792004783.index
+1028371016.index
+1865797976.index
+1535256363.index
+3999240860.index
+1237940379.index
+4083898146.index
+3392205847.index
+649691006.index
+3478450858.index
