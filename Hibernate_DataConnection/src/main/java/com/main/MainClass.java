@@ -25,6 +25,7 @@ public class MainClass {
 		e.setCity("Pune");
 		
 		ss.save(e);
+		// ss.persist(e);        we can write like this instead of ss.save(e);
 		ss.close();
 
 		System.out.println("Data is inserted...");
